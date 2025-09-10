@@ -1,6 +1,6 @@
 # autoprompt
 
-This project demonstrates how to automate AI-powered workflows using Selenium for browser automation and Tkinter for providing a simple desktop GUI. It allows users to interact with web-based AI tools and automate repetitive tasks with an easy-to-use interface.
+This project demonstrates how to automate AI-powered workflows using Selenium for browser automation and Tkinter for providing a simple desktop GUI. It allows users to interact with web-based AI tools and automate repetitive tasks with an easy-to-use interface
 
 ## Features
 
@@ -8,7 +8,8 @@ This project demonstrates how to automate AI-powered workflows using Selenium fo
 - **Tkinter GUI:** Provides a user-friendly graphical interface for configuring and running automations.
 - **Customizable:** Easily adapt the code for different websites.
 - **Cross-Platform:** Works on Windows
-
+## preview of project
+Capture.png
 ## Requirements
 
 - Python 3.x

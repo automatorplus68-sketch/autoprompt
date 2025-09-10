@@ -36,7 +36,7 @@ This project demonstrates how to automate AI-powered workflows using Selenium fo
 
 1. **Run the application:**
    ```bash
-   python autoprmpt.py
+   python autoprompt.py
    ```
 
 2. **Interact with the GUI:**  

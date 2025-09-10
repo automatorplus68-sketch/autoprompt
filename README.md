@@ -14,7 +14,7 @@ This project demonstrates how to automate AI-powered workflows using Selenium fo
 - Python 3.x
 - [Selenium](https://pypi.org/project/selenium/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) (bundled with most Python installations)
-- Appropriate WebDriver for your browser (e.g., [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/), [GeckoDriver](https://github.com/mozilla/geckodriver))
+- Appropriate WebDriver for your browser (e.g., [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/))
 
 ## Installation
 
@@ -44,34 +44,6 @@ This project demonstrates how to automate AI-powered workflows using Selenium fo
 
 3. **Automation:**  
    - The Selenium WebDriver will launch your browser and perform the specified tasks automatically.
-
-## Example
-
-Here's a minimal code snippet for integrating Selenium with Tkinter:
-
-```python
-import tkinter as tk
-from selenium import webdriver
-
-def run_automation():
-    driver = webdriver.Chrome()  # or webdriver.Firefox()
-    driver.get('https://example.com')
-    # Add your automation logic here
-    driver.quit()
-
-root = tk.Tk()
-root.title("AI Automation GUI")
-
-run_button = tk.Button(root, text="Run Automation", command=run_automation)
-run_button.pack(pady=20)
-
-root.mainloop()
-```
-
-## Customization
-
-- Modify the `run_automation` function to suit your automation requirements.
-- Add more widgets to the Tkinter GUI for user input, status updates, etc.
 
 ## Troubleshooting
 

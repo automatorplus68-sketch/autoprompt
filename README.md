@@ -9,7 +9,7 @@ This project demonstrates how to automate AI-powered workflows using Selenium fo
 - **Customizable:** Easily adapt the code for different websites.
 - **Cross-Platform:** Works on Windows
 ## preview of project
-(Capture.PNG)
+![Project Preview](Capture.PNG)
 ## Requirements
 
 - Python 3.x
